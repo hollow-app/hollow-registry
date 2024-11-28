@@ -1,0 +1,42 @@
+[
+    {
+    "name": "Random",
+    "author": "Ryu",
+    "theme":{
+      "colors": {
+        "bg": "#ffffff",
+        "borderColor": "#cccccc",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "borderRadius": "8px",
+        "boxShadow": "0 4px 6px rgba(0, 0, 0, 0.1)"
+      },
+      "background": {
+        "position": "center",
+        "size": "cover",
+        "repeat": "no-repeat",
+        "gradient": "none"
+      },
+      "hoverStates": {
+        "bg": "#f0f0f0",
+         "borderColor": "#cccccc", 
+         "borderStyle": "solid",
+         "borderWidth": "1px",
+         "borderRadius": "8px",
+         "boxShadow": "0 6px 8px rgba(0, 0, 0, 0.2)",
+         "transform": "scale(1.05)"
+      },
+      "animations": {
+        "transition": "background 0.3s ease",
+        "hoverTransition": "background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease"
+      },
+      "borderAndShadow": {
+        "focusBorderColor": "#007bff",
+        "focusBoxShadow": "0 0 8px rgba(0, 123, 255, 0.5)"
+      },
+      "miscellaneous": {
+        "opacity": "1"
+      }
+    }
+  }
+]
