@@ -1,0 +1,9 @@
+[
+    {
+    "name": "HollowSamplePlugin",
+    "desc": "A sample hollow plugin.",
+    "repo": "https://github.com/hollow-app/hollow-sample-plugin",
+    "author": "Hollow Team",
+    "verified": true
+  }
+]
