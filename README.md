@@ -1,2 +1,6 @@
 # hollow-registry
-A centralized repository for storing information about available plugins, their verification status, and card themes for Hollow.
+
+This repository contains resources for the Hollow app:
+
+- **plugins.json**: A list of available plugins with their details and verification status.
+- **themes.json**: A collection of card themes for Hollow's interface.
