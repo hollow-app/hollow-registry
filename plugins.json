@@ -3,7 +3,7 @@
     "name": "HollowSamplePlugin",
     "desc": "A sample hollow plugin.",
     "version": "1.0.0",
-    "repo": "https://github.com/hollow-app/hollow-sample-plugin",
+    "repo": "hollow-app/hollow-sample-plugin",
     "author": "Hollow Team",
     "verified": true
   }
