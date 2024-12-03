@@ -1,0 +1,72 @@
+{
+  "name": "Simple Theme",
+  "author": "Ryu",
+  "theme": {
+    "normal": {
+      "bg": "#ffffff",
+      "borderColor": "#dddddd",
+      "borderStyle": "solid",
+      "borderWidth": "1px",
+      "borderRadius": "8px",
+      "boxShadow": "0 2px 4px rgba(0, 0, 0, 0.1)",
+      "backgroundPosition": "center",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat",
+      "transform": "none",
+      "opacity": "1",
+      "transition": "all 0.3s ease"
+    },
+    "hover": {
+      "bg": "#f9f9f9",
+      "borderColor": "#cccccc",
+      "borderStyle": "solid",
+      "borderWidth": "1px",
+      "borderRadius": "8px",
+      "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.2)",
+      "transform": "scale(1.02)",
+      "opacity": "1",
+      "backgroundPosition": "center",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat"
+    },
+    "focus": {
+      "bg": "#eeeeee",
+      "borderColor": "#bbbbbb",
+      "borderStyle": "solid",
+      "borderWidth": "2px",
+      "borderRadius": "8px",
+      "boxShadow": "0 0 6px rgba(0, 0, 0, 0.3)",
+      "transform": "scale(1.01)",
+      "opacity": "1",
+      "backgroundPosition": "center",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat"
+    },
+    "before": {
+      "bg": "transparent",
+      "borderColor": "transparent",
+      "borderStyle": "none",
+      "borderWidth": "0",
+      "borderRadius": "0",
+      "boxShadow": "none",
+      "transform": "none",
+      "opacity": "0.5",
+      "backgroundPosition": "center",
+      "backgroundSize": "contain",
+      "backgroundRepeat": "no-repeat"
+    },
+    "after": {
+      "bg": "transparent",
+      "borderColor": "transparent",
+      "borderStyle": "none",
+      "borderWidth": "0",
+      "borderRadius": "0",
+      "boxShadow": "none",
+      "transform": "none",
+      "opacity": "0.5",
+      "backgroundPosition": "center",
+      "backgroundSize": "contain",
+      "backgroundRepeat": "no-repeat"
+    }
+  }
+}
