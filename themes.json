@@ -2,47 +2,6 @@
   {
     "name": "Random",
     "author": "Ryu",
-    "theme": {
-      "normal": {
-        "bg": "#ffffff",
-        "borderColor": "#cccccc",
-        "borderStyle": "solid",
-        "borderWidth": "1px",
-        "borderRadius": "8px",
-        "boxShadow": "0 4px 6px rgba(0, 0, 0, 0.1)",
-        "backgroundPosition": "center",
-        "backgroundSize": "cover",
-        "backgroundRepeat": "no-repeat",
-        "backgroundGradient": "none",
-        "opacity": "1",
-        "transition": "background 0.3s ease"
-      },
-      "hover": {
-        "bg": "#f0f0f0",
-        "borderColor": "#cccccc",
-        "borderStyle": "solid",
-        "borderWidth": "1px",
-        "borderRadius": "8px",
-        "boxShadow": "0 6px 8px rgba(0, 0, 0, 0.2)",
-        "transform": "scale(1.05)",
-        "backgroundPosition": "center",
-        "backgroundSize": "cover",
-        "backgroundRepeat": "no-repeat",
-        "backgroundGradient": "none"
-      },
-      "focus": {
-        "bg": "#ffffff",
-        "borderColor": "#007bff",
-        "borderStyle": "solid",
-        "borderWidth": "1px",
-        "borderRadius": "8px",
-        "boxShadow": "0 0 8px rgba(0, 123, 255, 0.5)",
-        "backgroundPosition": "center",
-        "backgroundSize": "cover",
-        "backgroundRepeat": "no-repeat",
-        "backgroundGradient": "none"
-      }
-    }
   }
 ]
 
