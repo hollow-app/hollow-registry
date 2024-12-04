@@ -3,8 +3,8 @@
   "author": "Ryu",
   "theme": {
     "normal": {
-      "bg": "#ffffff",
-      "borderColor": "#dddddd",
+      "bg": "rgb(var(--secondary-color-10))",
+      "borderColor": "rgb(var(--secondary-color-05))",
       "borderStyle": "solid",
       "borderWidth": "1px",
       "borderRadius": "8px",
@@ -23,7 +23,7 @@
       "borderWidth": "1px",
       "borderRadius": "8px",
       "boxShadow": "0 4px 8px rgba(0, 0, 0, 0.2)",
-      "transform": "scale(1.02)",
+      "transform": "scale(0.8)",
       "opacity": "1",
       "backgroundPosition": "center",
       "backgroundSize": "cover",
