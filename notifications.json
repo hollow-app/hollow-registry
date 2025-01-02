@@ -1,5 +1,4 @@
 {
-  "notifications": {
     "Windows": {
       "notification": "Test",
       "submitted_at": "2025-01-02T17:00:00Z",
@@ -18,5 +17,4 @@
       "expires_at": "2025-01-05T12:00:00Z",
       "type": "Release"
     }
-  }
 }
