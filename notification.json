@@ -1,1 +1,22 @@
-
+{
+  "notifications": {
+    "Windows": {
+      "notification": "Test",
+      "submitted_at": "2025-01-02T17:00:00Z",
+      "expires_at": "2025-01-09T10:00:00Z",
+      "type": "Update"
+    },
+    "macOS": {
+      "notification": "Test",
+      "submitted_at": "2025-01-02T17:00:00Z",
+      "expires_at": "2025-01-03T15:30:00Z",
+      "type": "Maintenance"
+    },
+    "Linux": {
+      "notification": "Test",
+      "submitted_at": "2025-01-02T17:00:00Z",
+      "expires_at": "2025-01-05T12:00:00Z",
+      "type": "Release"
+    }
+  }
+}
