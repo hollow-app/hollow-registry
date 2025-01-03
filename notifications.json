@@ -1,20 +1,19 @@
 {
     "Windows": {
-      "message": "Test",
-      "attachment":"",
+      "title": "Test",
       "submitted_at": "2025-01-02T17:00:00Z",
       "expires_at": "2025-01-09T10:00:00Z",
       "type": "Update"
     },
     "macOS": {
-      "message": "Test",
-      "attachment":"",
+      "title": "Test",
+      "message":"",
       "submitted_at": "2025-01-02T17:00:00Z",
       "expires_at": "2025-01-03T15:30:00Z",
       "type": "Maintenance"
     },
     "Linux": {
-      "message": "Test from linux",
+      "title": "Test from linux",
       "attachment":"",
       "submitted_at": "2025-01-03T18:02:00Z",
       "expires_at": "2025-01-05T12:00:00Z",
