@@ -13,11 +13,11 @@
       "type": "Maintenance"
     },
     "Linux": {
-      "title": "Reminder",
+      "title": "Discord",
       "message":"Join our discord server.",
       "attachment":"",
-      "submitted_at": "2025-01-08T17:16:00Z",
-      "expires_at": "2025-01-08T18:25:00Z",
+      "submitted_at": "2025-01-08T18:01:00Z",
+      "expires_at": "2025-01-08T18:10:00Z",
       "type": "reminder"
     }
 }
