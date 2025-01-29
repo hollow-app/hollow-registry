@@ -11,7 +11,7 @@
       "Enabled context menu integration for plugins."
     ],
     "Fixes": [
-    "Resolved issues with card theme logic by utilizing raw CSS files, with a potential transition to Hollow Templates.",
+    "Resolved issues with card theme logic by utilizing raw CSS files ( experimental ).",
     "Eliminated unnecessary shading in the editor, prioritizing dynamic light/dark color adaptation."
     ],
     "Improvements": [
