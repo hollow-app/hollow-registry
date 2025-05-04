@@ -1,7 +1,7 @@
 [
     {
-    "name": "SampleSveltePlugin",
-    "desc": "A sample hollow plugin.",
+    "name": "SimpleHollowPlugin",
+    "desc": "A simple hollow plugin.",
     "version": "1.0.0",
     "repo": "hollow-app/hollow-plugin-template",
     "author": "Hollow Team",
