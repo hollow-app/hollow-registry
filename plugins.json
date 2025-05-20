@@ -1,11 +1,11 @@
 [
     {
-    "name": "SimpleHollowPlugin",
-    "desc": "A simple hollow plugin.",
+    "name": "Radarite",
+    "desc": "Radarite turns your data into a visual radar shape, like a skill chart. Choose what you want to track notes, tags, or anything else and see it come to life in real time.",
     "version": "1.0.0",
-    "repo": "hollow-app/hollow-plugin-template",
-    "author": "Hollow Team",
-    "verificationDate" : "2024-12-03T20:26:55Z",
+    "repo": "Ryusufe/Radarite",
+    "author": "Ryu",
+    "verificationDate" : "2025-05-20T00:59:35.366Z",
     "verified": true
     }
 ]
