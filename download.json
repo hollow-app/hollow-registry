@@ -1,22 +1,22 @@
 [
     {
-        platform: "Windows",
-        link: "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/Hollow-0.0.2.Setup.exe"
+        "platform": "Windows",
+        "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/Hollow-0.0.2.Setup.exe"
     },
     {
-        platform: "MacOs",
-        link: "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/Hollow-macOS.zip"
+        "platform": "MacOs",
+        "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/Hollow-macOS.zip"
     },
     {
-        platform: "Linux",
-        variants: [
+        "platform": "Linux",
+        "variants": [
             {
-                    name: "Debian/Ubuntu (.deb)",
-                    link: "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/hollow_0.0.2_amd64.deb",
+                    "name": "Debian/Ubuntu (.deb)",
+                    "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/hollow_0.0.2_amd64.deb",
             },
             {
-                    name: "Red Hat/Fedora (.rpm)",
-                    link: "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/hollow-0.0.2.rpm",
+                    "name": "Red Hat/Fedora (.rpm)",
+                    "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.2/hollow-0.0.2.rpm",
             }
         ]
     }
