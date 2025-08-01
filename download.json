@@ -9,7 +9,7 @@
             "platform": "MacOs",
             "variants" : [
                 {
-                        "name": ".app",
+                        "name": ".app"
                 }
             ]
         },
@@ -21,10 +21,10 @@
                         "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow_0.0.3_amd64.AppImage"
                 },
                 {
-                        "name": "Debian/Ubuntu (.deb)",
+                        "name": "Debian/Ubuntu (.deb)"
                 },
                 {
-                        "name": "Red Hat/Fedora (.rpm)",
+                        "name": "Red Hat/Fedora (.rpm)"
                 }
             ]
         }
