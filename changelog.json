@@ -1,4 +1,22 @@
 [
+    {
+    "version" : "0.0.3",
+    "Title" : "Version 0.0.3 - Beta : A Lighter, Smarter Core.",
+    "Features": [
+      "Introduced Realms: isolated environments similar to browser profiles for organizing your workspace.",
+      "Added Entries Viewer: a unified table that displays data from all tools in one organized and readable view."
+    ],
+    "Fixes": [
+    ],
+    "Improvements": [
+      "Switched to Tauri: Hollow now runs on Tauri instead of Electron, resulting in a smaller app size and significantly faster performance.",
+      "Rewrote the UI using SolidJS instead of React for better performance and responsiveness.",
+      "Revamped the plugin system to be simpler and more developer friendly.",
+      "Redesigned UI layout: side popups no longer overlap or interfere with other elements.",
+      "Tool settings are now handled through a predefined layout, so tools no longer need to build their own settings component."
+    ],
+    "Date" : "2025-08-01T00:00:00+01:00"
+  },
   {
     "version" : "0.0.2",
     "Title" : "Version 0.0.2 - Beta.",
