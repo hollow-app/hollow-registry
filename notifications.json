@@ -1,26 +1,26 @@
 {
     "Windows": {
-      "title": "Welcome to Hollow!",
-      "message":"Thank you for installing Hollow! We're excited to have you on board and hope you enjoy creating your unique workspace. Happy exploring!",
-      "attachment":"",
-      "submitted_at": "2025-26-01T22:01:00Z",
-      "expires_at": "2025-10-02T18:10:00Z",
-      "type": "achievement"
+      "title": "Version 0.0.3!",
+      "message":"A new version is out, please check out the discord server before downloading!",
+      "attachment":"https://hollow-space.vercel.app/download",
+      "submitted_at": "2025-01-08T22:01:00Z",
+      "expires_at": "2025-10-12T18:10:00Z",
+      "type": "update"
     },
     "macOS": {
-        "title": "Welcome to Hollow!",
-      "message":"Thank you for installing Hollow! We're excited to have you on board and hope you enjoy creating your unique workspace. Happy exploring!",
-      "attachment":"",
-      "submitted_at": "2025-26-01T22:01:00Z",
-      "expires_at": "2025-10-02T18:10:00Z",
-      "type": "achievement"
+        "title": "Version 0.0.3!",
+      "message":"A new version is out, please check out the discord server before downloading!",
+      "attachment":"https://hollow-space.vercel.app/download",
+      "submitted_at": "2025-01-08T22:01:00Z",
+      "expires_at": "2025-10-12T18:10:00Z",
+      "type": "update"
     },
     "Linux": {
-      "title": "Welcome to Hollow!",
-      "message":"Thank you for installing Hollow! We're excited to have you on board and hope you enjoy creating your unique workspace. Happy exploring!",
-      "attachment":"",
-      "submitted_at": "2025-26-01T22:01:00Z",
-      "expires_at": "2025-10-02T18:10:00Z",
-      "type": "achievement"
+      "title": "Version 0.0.3!",
+      "message":"A new version is out, please check out the discord server before downloading!",
+      "attachment":"https://hollow-space.vercel.app/download",
+      "submitted_at": "2025-01-08T22:01:00Z",
+      "expires_at": "2025-10-12T18:10:00Z",
+      "type": "update"
     }
 }
