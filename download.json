@@ -3,11 +3,19 @@
     "options" : [
         {
             "platform": "Windows",
-            "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow_0.0.3_x64_en-US.msi"
+            "variants": [
+                {
+                        "name": "link"
+                }
+            ]
         },
         {
             "platform": "MacOs",
-            "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow-macos-universal-app.zip"
+            "variants": [
+                {
+                        "name": "link"
+                }
+            ]
         },
         {
             "platform": "Linux",
