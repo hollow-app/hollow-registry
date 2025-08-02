@@ -7,11 +7,7 @@
         },
         {
             "platform": "MacOs",
-            "variants" : [
-                {
-                        "name": ".app"
-                }
-            ]
+            "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow-macos-universal-app.zip"
         },
         {
             "platform": "Linux",
@@ -21,10 +17,12 @@
                         "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow_0.0.3_amd64.AppImage"
                 },
                 {
-                        "name": "Debian/Ubuntu (.deb)"
+                        "name": "Debian/Ubuntu (.deb)",
+                        "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow_0.0.3_amd64.deb"
                 },
                 {
-                        "name": "Red Hat/Fedora (.rpm)"
+                        "name": "Red Hat/Fedora (.rpm)",
+                        "link": "https://github.com/hollow-app/hollow-releases/releases/download/v0.0.3/hollow-0.0.3-1.x86_64.rpm"
                 }
             ]
         }
