@@ -1,5 +1,14 @@
 [
     {
+    "name": "Calendar",
+    "desc": "Week-view calendar to quickly add and manage tasks for each day.",
+    "version": "1.0.0",
+    "repo": "Ryusufe/Calendar",
+    "author": "Ryu",
+    "verificationDate" : "2025-08-15T01:27:22Z",
+    "verified": true
+    },
+    {
     "name": "Radarite",
     "desc": "Radarite turns your data into a visual radar shape, like a skill chart. Choose what you want to track notes, tags, or anything else and see it come to life in real time.",
     "version": "1.0.0",
