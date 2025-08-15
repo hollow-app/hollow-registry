@@ -8,5 +8,15 @@
       "expires_at": "2026-10-02T18:10:00Z",
       "type": "achievement",
       "platform": "all"
+    },
+      {
+      "id": "calendar-notified",
+      "title": "New Plugin Available!",
+      "message":"Calendar plugin lets you organize and visualize your tasks in Hollow by week. Can be installed in the settings.",
+      "attachment":"",
+      "submitted_at": "2025-08-15T01:27:22Z",
+      "expires_at": "2025-08-22T01:27:22Z",
+      "type": "Info",
+      "platform": "all"
     }
   ]
