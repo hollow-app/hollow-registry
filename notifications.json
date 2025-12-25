@@ -1,26 +1,11 @@
-{
-    "Windows": {
-      "title": "Version 0.0.3!",
-      "message":"A new version is out, please check out the discord server before downloading!",
-      "attachment":"https://hollow-space.vercel.app/download",
-      "submitted_at": "2025-01-08T22:01:00Z",
-      "expires_at": "2025-10-12T18:10:00Z",
-      "type": "update"
-    },
-    "macOS": {
-        "title": "Version 0.0.3!",
-      "message":"A new version is out, please check out the discord server before downloading!",
-      "attachment":"https://hollow-space.vercel.app/download",
-      "submitted_at": "2025-01-08T22:01:00Z",
-      "expires_at": "2025-10-12T18:10:00Z",
-      "type": "update"
-    },
-    "Linux": {
-      "title": "Version 0.0.3!",
-      "message":"A new version is out, please check out the discord server before downloading!",
-      "attachment":"https://hollow-space.vercel.app/download",
-      "submitted_at": "2025-01-08T22:01:00Z",
-      "expires_at": "2025-10-12T18:10:00Z",
-      "type": "update"
-    }
-}
+[
+  {
+    "id": "welcome-001",
+    "title": "Welcome to Hollow!",
+    "message": "Thanks for joining Hollow! Explore the app and discover all the tools to organize your workspace your way.",
+    "banner": "https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg",
+    "submitted_at": "2025-12-25T05:00:00.000Z",
+    "expires_at": "2026-01-01T05:00:00.000Z",
+    "platform": "all"
+  }
+]

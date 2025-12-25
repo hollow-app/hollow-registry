@@ -1,22 +1,22 @@
-  [
-    {
-      "id": "HX1-rS4v",
-      "title": "Welcome to Hollow!",
-      "message":"Thank you for installing Hollow! We're excited to have you on board and hope you enjoy creating your unique workspace. Happy exploring!",
-      "attachment":"",
-      "submitted_at": "2025-07-23T12:01:00Z",
-      "expires_at": "2026-10-02T18:10:00Z",
-      "type": "achievement",
-      "platform": "all"
-    },
-      {
-      "id": "open-source",
-      "title": "Hollow Is Open Source!",
-      "message":"Happy to announce that Hollow is now open source! The full source code is now available on GitHub, so you can explore how it works, suggest improvements, or even contribute your own ideas.",
-      "attachment":"https://github.com/hollow-app/hollow",
-      "submitted_at": "2025-09-20T01:27:22Z",
-      "expires_at": "2025-10-01T01:27:22Z",
-      "type": "achievement",
-      "platform": "all"
-    }
-  ]
+[
+  {
+    "id": "HX1-rS4v",
+    "title": "Welcome to Hollow!",
+    "message": "Thank you for installing Hollow! We're excited to have you on board and hope you enjoy creating your unique workspace. Happy exploring!",
+    "attachment": "",
+    "submitted_at": "2025-07-23T12:01:00Z",
+    "expires_at": "2026-10-02T18:10:00Z",
+    "type": "achievement",
+    "platform": "all"
+  },
+  {
+    "id": "open-source",
+    "title": "Hollow Is Open Source!",
+    "message": "Happy to announce that Hollow is now open source! The full source code is now available on GitHub, so you can explore how it works, suggest improvements, or even contribute your own ideas.",
+    "attachment": "https://github.com/hollow-app/hollow",
+    "submitted_at": "2025-09-20T01:27:22Z",
+    "expires_at": "2025-10-01T01:27:22Z",
+    "type": "achievement",
+    "platform": "all"
+  }
+]
