@@ -5,7 +5,16 @@
     "message": "Thanks for joining Hollow! Explore the app and discover all the tools to organize your workspace your way.",
     "banner": "https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg",
     "submitted_at": "2025-12-25T05:00:00.000Z",
-    "expires_at": "2026-01-01T05:00:00.000Z",
+    "expires_at": "2027-01-01T05:00:00.000Z",
+    "platform": "all"
+  },
+  {
+    "id": "accounts-001",
+    "title": "Accounts are Here! 🚀 (Optional)",
+    "message": "We have just shipped something new for Hollow, an account system on the website.",
+    "attachment": "https://hollowapp.pages.dev/account/sign-up",
+    "submitted_at": "2026-04-02T05:00:00.000Z",
+    "expires_at": "2026-04-09T05:00:00.000Z",
     "platform": "all"
   }
 ]
